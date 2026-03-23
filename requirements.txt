@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python-headless
+python-multipart
+easyocr
+torch --index-url https://download.pytorch.org/whl/cpu
+Pillow
